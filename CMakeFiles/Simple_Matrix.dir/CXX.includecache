@@ -1,0 +1,118 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/dynamic_engine.hpp
+storage.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/storage.hpp
+iostream
+-
+
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/expression.hpp
+type_traits
+-
+iostream
+-
+
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/matrix.hpp
+dynamic_engine.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/dynamic_engine.hpp
+static_engine.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/static_engine.hpp
+shape.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/shape.hpp
+operations.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/operations.hpp
+cassert
+-
+
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/operations.hpp
+expression.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/expression.hpp
+
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/shape.hpp
+iostream
+-
+algorithm
+-
+unordered_map
+-
+storage.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/storage.hpp
+
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/static_engine.hpp
+storage.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/storage.hpp
+iostream
+-
+
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/storage.hpp
+vector
+-
+array
+-
+memory
+-
+
+/Users/Amit/Desktop/Python/c++/Boost Matrix/main.cpp
+include/matrix_v3/matrix.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/matrix.hpp
+include/matrix_v3/dynamic_engine.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/dynamic_engine.hpp
+include/matrix_v3/static_engine.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/static_engine.hpp
+test/matrix_test_v3_dynamic.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/test/matrix_test_v3_dynamic.hpp
+test/matrix_test_v3_dynamic_sparse.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/test/matrix_test_v3_dynamic_sparse.hpp
+test/matrix_test_v3_static.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/test/matrix_test_v3_static.hpp
+algorithm
+-
+cassert
+-
+chrono
+-
+complex
+-
+
+/Users/Amit/Desktop/Python/c++/Boost Matrix/test/matrix_test_v3_dynamic.hpp
+../include/matrix_v3/matrix.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/matrix.hpp
+iostream
+-
+chrono
+-
+complex
+-
+cassert
+-
+
+/Users/Amit/Desktop/Python/c++/Boost Matrix/test/matrix_test_v3_dynamic_sparse.hpp
+../include/matrix_v3/matrix.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/matrix.hpp
+iostream
+-
+chrono
+-
+complex
+-
+cassert
+-
+
+/Users/Amit/Desktop/Python/c++/Boost Matrix/test/matrix_test_v3_static.hpp
+../include/matrix_v3/matrix.hpp
+/Users/Amit/Desktop/Python/c++/Boost Matrix/include/matrix_v3/matrix.hpp
+iostream
+-
+chrono
+-
+complex
+-
+cassert
+-
+

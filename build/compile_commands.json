@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/Amit/Desktop/Python/c++/Boost Matrix/build",
+  "command": "/usr/local/bin/g++-8    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -std=c++17 -o CMakeFiles/Simple_Matrix.dir/main.cpp.o -c \"/Users/Amit/Desktop/Python/c++/Boost Matrix/main.cpp\"",
+  "file": "/Users/Amit/Desktop/Python/c++/Boost Matrix/main.cpp"
+}
+]
